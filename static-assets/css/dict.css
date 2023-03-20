@@ -1,0 +1,29 @@
+body {
+    background-color: #e2d2ae;
+    text-align: left;
+    font-family:  serif;
+}
+
+button {
+    font-size: 25px;
+    margin-left: 150px;
+    border-radius: 5px;
+}
+
+h1 {
+    background-color: rgb(192, 212, 143);
+    margin: auto;
+    width: max-content;
+}
+
+#projectlabel {
+    font-size: 35px;
+}
+
+.searchWord {
+    font-size: 35px;
+    padding: 6pt;
+    width: 350px;
+    font-size: 16pt;
+    border-radius: 5px;
+}
